@@ -1,4 +1,4 @@
-# socialnetwork
+# Social Network Web App
 Basic frontend layout for a social network created with VueJS, Quasar Framework and Typescript
 
 ## Pages
